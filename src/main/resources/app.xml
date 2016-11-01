@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Application ts="1477960165190" uri="http://61.167.40.226:9090/dataservices/maven/" launch="no.tornado.FxlDemo">
+    <lib file="controlsfx.jar" checksum="901192049" size="985420"/>
+    <lib file="fxldemo-gradle-1.0.jar" checksum="1056320654" size="2053"/>
+    <updateText>Updating...</updateText>
+    <updateLabelStyle>-fx-font-weight: bold;</updateLabelStyle>
+    <progressBarStyle>-fx-pref-width: 200;</progressBarStyle>
+    <wrapperStyle>-fx-spacing: 10; -fx-padding: 25;</wrapperStyle>
+    <acceptDowngrade>false</acceptDowngrade>
+</Application>
